@@ -42,7 +42,7 @@
     <string name="pref_dynamicsystem_title">Динамическая система</string>
     <string name="pref_dynamicsystem_summary_on">Динамическая система включена</string>
     <string name="pref_dynamicsystem_summary_off">Динамическая система отключена</string>
-    <string name="pref_dynamicsystem_enable">Включение динамическая системы</string>
+    <string name="pref_dynamicsystem_enable">Включение динамической системы</string>
     <string name="pref_dynamicsystem_output">Устройство прослушивания</string>
     <string name="pref_dynamicsystem_output_title">Выберите устройство прослушивания</string>
     <string name="pref_dynamicsystem_bass">Динамический бас</string>
@@ -56,9 +56,9 @@
     <string name="pref_fidelity_vb_mode">Тип баса</string>
     <string name="pref_fidelity_vb_mode_title">Выберите тип баса</string>
     <string name="pref_fidelity_vb_bassfreq">Частота баса</string>
-    <string name="pref_fidelity_vb_bassfreq_title">Выберите частоту</string>
+    <string name="pref_fidelity_vb_bassfreq_title">Выберите частоту баса</string>
     <string name="pref_fidelity_vb_bassgain">Усиление баса</string>
-    <string name="pref_fidelity_vb_bassgain_title">Выберите усиление</string>
+    <string name="pref_fidelity_vb_bassgain_title">Выберите усиление баса</string>
     <string name="pref_fidelity_vc_summary_on">ViPER Clarity включен</string>
     <string name="pref_fidelity_vc_summary_off">ViPER Clarity отключен</string>
     <string name="pref_fidelity_vc_enable">Включение ViPER Clarity</string>
@@ -69,7 +69,7 @@
     <string name="pref_curesystem_title">Защита слуховой системы</string>
     <string name="pref_curesystem_summary_on">Cure Tech+ включен</string>
     <string name="pref_curesystem_summary_off">Cure Tech+ отключен</string>
-    <string name="pref_curesystem_enable">Включение Cure Tech+</string>
+    <string name="pref_curesystem_enable">Включение</string>
     <string name="pref_select_cure_cf_title">Выберите бинауральный уровень</string>
     <string name="dialog_cure_crossfeed">Бинауральный уровень</string>
     <string name="pref_convolver_title">Конвольвер</string>
@@ -77,7 +77,7 @@
     <string name="pref_convolver_summary_off">Конвольвер отключен</string>
     <string name="pref_convolver_enable">Включение конвольвера</string>
     <string name="pref_convolver_knl">Импульсный отклик (сэмпл)</string>
-    <string name="pref_convolver_knl_title">Выберите импульсный отклик</string>
+    <string name="pref_convolver_knl_title">Выберите сэмпл</string>
     <string name="pref_vhs_title">Virtual Headphone Surround+</string>
     <string name="pref_vhs_summary_on">VHS+ включен</string>
     <string name="pref_vhs_summary_off">VHS+ отключен</string>
@@ -171,7 +171,7 @@
 \n\Обработка: %5$s 
 \n\Тип обработки: %6$s
 \n\Частота дискретизации: %7$d 
-\n\Каналов: %8$d
+\n\Каналов: %8$
 \n\
 </string>
     <string name="text_service_error">Не удалось запустить ViPER4Android.</string>
@@ -185,7 +185,7 @@
 \n\
 \n\Copyright © 2006-2016, vipercn.com. All rights reserved.
 \n\Коммерческое использование без официального разрешения запрещено.
-\n\Официальный форум: forum.vipersaudio.com
+\n\Официальный форум: forum.vipersaudio.co
 </string>
     <string name="text_help_content">"***Общая справка*** 
 \n\
